@@ -24,12 +24,12 @@ namespace RetakesPlugin;
 [MinimumApiVersion(345)]
 public class RetakesPlugin : BasePlugin, IPluginConfig<BaseConfigs>
 {
-    public const string Version = "3.0.4";
+    public const string Version = "3.0.5";
 
     #region Plugin Info
     public override string ModuleName => "Retakes Plugin";
     public override string ModuleVersion => Version;
-    public override string ModuleAuthor => "B3none";
+    public override string ModuleAuthor => "B3none. zhw1nq";
     public override string ModuleDescription => "https://github.com/b3none/cs2-retakes";
     #endregion
 
